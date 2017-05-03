@@ -1,0 +1,15 @@
+baseURL = "https://blog.spirx.io/"
+languageCode = "en-us"
+theme = "hugo-lithium-theme"
+title = "SpirX Blog"
+
+[permalinks]
+	post = "/:year/:month/:day/:title/"
+	page = "/:title/"
+
+[params]
+	description = ""
+
+	[params.logo]
+	url = "sx.png"
+	alt = "Logo"

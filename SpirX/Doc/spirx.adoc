@@ -1,0 +1,7 @@
+= SpirX
+Adrian J. Collado <acollado@polaritech.com>
+:icons: font
+:revnumber: 0.1.0
+:revdate: Friday, April 28, 2017
+
+*SpirX* is a game framework written in C with an emphasis on extensibility. Most of the functionality of _SpirX_ is provided by extensions rather than the library itself.
